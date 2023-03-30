@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anzala654
+- 👋 Hi, I’m Anzala Syed
 - 👀 I’m interested in learning new technology
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python programs
